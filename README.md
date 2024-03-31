@@ -6,8 +6,8 @@ For this project:
 
 ## Run
 
-`cmod +x ./setup.sh`
-`./setup.sh`
+- `cmod +x ./setup.sh`
+- `./setup.sh`
 
 ## Destroy Blob Storage
 
